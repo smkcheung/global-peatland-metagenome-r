@@ -1,0 +1,21 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project settings
+.Rproj.user/
+*.Rproj
+
+# Environment/secret configs
+.Renviron
+.env
+
+# Package management
+renv/library/
+renv/python/
+packrat/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
